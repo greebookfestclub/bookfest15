@@ -1,0 +1,1 @@
+= iOSレシート検証APIのverifyReceipt APIがdeprecatedになった後
