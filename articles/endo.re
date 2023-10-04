@@ -29,7 +29,7 @@ Server->Apple: App Store Server API
 Apple->Server: 情報
 Server->Server: 反映
 Server->App:
-}
+//}
 
 === 受信したレシートが正当か検証し、情報取得する
 方法はこちらの動画でも紹介されています@<fn>{endofn03}。今回はphpを想定しているので自前で実装していきますが、動画にあるようにApple公式ライブラリが用意されている言語(Swift, Java, Node.js, Python)ではそれにしたがってください。
