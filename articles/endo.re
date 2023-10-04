@@ -14,7 +14,7 @@
 * サーバーで受信したレシートから課金情報を取得する
 * (必要な場合) AppleのApp Store Server APIにより情報を取得する
 
-//indepimage[endo_sequence01][従来フロー]{
+//indepimage[endo_sequence01][従来フロー][scale=0.5]{
 App->Server: レシート
 Server->Apple: verifyReceipt API
 Apple->Server: 検証結果,情報
@@ -22,7 +22,7 @@ Server->Server: 反映
 Server->App:
 //}
 
-//indepimage[endo_sequence02][新フロー]{
+//indepimage[endo_sequence02][新フロー][scale=0.5]{
 App->Server: レシート
 Server->Server: レシート検証,情報取得
 Server->Apple: App Store Server API
