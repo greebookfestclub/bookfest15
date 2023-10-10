@@ -124,6 +124,8 @@ Server->App:
 
 なお、レシートの中には過去の課金が複数件入っているので、Transaction IdentifierなどはIn-App Purchase Receiptの中に入っています。なのでTransaction Identifierが欲しい場合、まずIn-App Purchase Receiptを取得し、次にTransaction Identifierを取得する、という手順になります。流れを整理すると、このようになります。
 
+//indepimage[endo_image_01][情報の取り出し方の流れ]{}
+
 ===  AppleのApp Store Server APIにより情報を取得する
 ==== API
 ここまでで基本的には必要な情報が入手できています。しかし欲しい情報がレシートに存在しない場合、もしくはその課金に関する最新の情報を取得したい場合もあるため、APIの呼び出しによる情報取得ついても見ていきましょう。
