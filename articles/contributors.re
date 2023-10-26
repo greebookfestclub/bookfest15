@@ -1,11 +1,5 @@
 = 著者紹介
 
-==== 樋口雅拓 / @<href>{https://twitter.com/mahiguch1,@mahiguch1} (@<chap>{higuchi})
-
-グリーグループのアウモ株式会社で、おでかけ情報サービスaumoの開発を担当しています。
-ソフトウェアエンジニアで、カタンとドミニオンとビールが好き。
-好きなサウナ施設は、鶯谷のサウナセンター。
-
 ==== 遠藤辰弥 / @<href>{https://twitter.com/tattyamm,@tattyamm} (@<chap>{endo})
 
 スマホ向けアプリ共通システムのサーバーサイドを担当。
