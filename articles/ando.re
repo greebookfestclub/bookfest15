@@ -27,7 +27,6 @@ https://gree-entertainment.com/topics/4838/@<br>{}
  * 使用しているPluginやライブラリの出処
  * ライセンス再購入が必要なAssetやTool類
  * 3rdパーティのソースコードの編集有無
- * コピーライトの記載内容
 
 以下に詳細を記載します。
 

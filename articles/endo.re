@@ -128,7 +128,7 @@ Server->App:
 
 ===  AppleのApp Store Server APIにより情報を取得する
 ==== API
-ここまでで基本的には必要な情報が入手できています。しかし欲しい情報がレシートに存在しない場合、もしくはその課金に関する最新の情報を取得したい場合もあるため、APIの呼び出しによる情報取得ついても見ていきましょう。
+ここまでで基本的には必要な情報が入手できています。しかし欲しい情報がレシートに存在しない場合、もしくはその課金に関する最新の情報を取得したい場合もあるため、APIの呼び出しによる情報取得についても見ていきましょう。
 レシートからtransactionIdもしくはoriginalTransactionIdが入手できたので、これを使って課金情報向けのApp Store Server API@<fn>{endofn11}を呼び出します。
 //footnote[endofn11][https://developer.apple.com/documentation/appstoreserverapi]
 
